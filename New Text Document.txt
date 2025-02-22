@@ -1,0 +1,15 @@
+At first, the softwear takes the item number of the product which 
+the customers want to purchase. 
+If the products item code matches with the existing item code or list than 
+the product name will be shown. Than the quantity of the product can be 
+added according to the customers choice. Once the customers ordered is confirmed 
+the purchasing bill will be shown to the salesperson. 
+For the later preference, the salesperson can shown the bill in future for 
+security or resonal issues.  
+
+THe supplyers giving the goods to the market accoriding to their list. 
+The list can be accessed again for modification. Accessories code can be added 
+resulting and incriment in the overall list.
+Again, this new list is displayed to the new customer who wants to purchase the 
+other product.
+  
